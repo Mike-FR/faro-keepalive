@@ -1,9 +1,0 @@
-{
-    "appType": "front",
-    "project_name": "grafana-faro-test",
-    "dependencies": [],
-    "migrations": [],
-    "fixtures": [],
-    "extra-steps": [],
-    "groups": []
-}

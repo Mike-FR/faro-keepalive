@@ -8,7 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@socotec.io/socio-vue-components": "^5.7.1",
+    "@grafana/faro-web-sdk": "^1.0.5",
+    "@grafana/faro-web-tracing": "^1.0.5",
     "core-js": "^3.19.1",
     "google-protobuf": "^3.19.1",
     "vue": "2.7.14",
